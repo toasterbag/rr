@@ -6,6 +6,8 @@ I was trying to write a plan9 image to my SD card and I never remember the corre
 to get the progress of the transfer. It also failed to write the image for unknown reasons so instead of
 searching the web for a fix I just Rewrote It In Rust!
 
+Oh and did I mention it's async?
+
 ## How?
 Install with
 ```bash
